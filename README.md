@@ -1,31 +1,32 @@
 # devops-2022
-Data Science Environment
+
+## Data Science Environment
 
 This project provides a Dockerfile which uses Anaconda as a base image and installs the packages, dependencies and python libraries required for studying Data Science course with lecturer Kholed Langsari. With this Dockerfile, students can quickly head into class and have an environment ready for them without having to worry about the configuration and installation.
 _______________________________________________________________
 ## Packages installed
 
-Git
-Jupyter
-Python
-Numpy
-Pandas
-Statsmodels
-Matplotlibs
-Seaborn
+-Git
+-Jupyter
+-Python
+-Numpy
+-Pandas
+-Statsmodels
+-Matplotlibs
+-Seaborn
 
 ## software required 
 
-Docker desktop 
-VS Code
-Terminal or powershell
+-Docker desktop 
+-VS Code
+-Terminal or powershell
 
 ## Methood 
 
 pull the dockerfile image(You can click on the link below) from dockerhub `docker push azzamjeh/ds:tagname`
 - After it has finished pulling. You will be able to run it.
 
--  To do that, you must use the command in the terminal: `docker run -d --name (container_name) -p 8000:8000 ``docker push azzamjeh/ds:tagname``
+-  To do that, you must use the command in the terminal: docker run -d --name (container_name) -p 8000:8000 ``docker push azzamjeh/ds:tagname``
 You may name the container anything you like, the image name should be the same name as that you have built earlier. This will run that Docker image in a newly created container and maps the container port `8000` to the host port `8000`
 
 
