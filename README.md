@@ -6,20 +6,20 @@ This project provides a Dockerfile which uses Anaconda as a base image and insta
 _______________________________________________________________
 ## Packages installed
 
--Git
--Jupyter
--Python
--Numpy
--Pandas
--Statsmodels
--Matplotlibs
--Seaborn
+- Git
+- Jupyter
+- Python
+- Numpy
+- Pandas
+- Statsmodels
+- Matplotlibs
+- Seaborn
 
 ## software required 
 
--Docker desktop 
--VS Code
--Terminal or powershell
+- Docker desktop 
+- VS Code
+- Terminal or powershell
 
 ## Methood 
 
