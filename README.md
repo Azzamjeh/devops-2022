@@ -23,10 +23,10 @@ _______________________________________________________________
 
 ## Methood 
 
-pull the dockerfile image(You can click on the link below) from dockerhub `docker push azzamjeh/ds:tagname`
+pull the dockerfile image(You can click on the link below) from dockerhub ``docker pull azzamjeh/ds``
 - After it has finished pulling. You will be able to run it.
 
--  To do that, you must use the command in the terminal: docker run -d --name (container_name) -p 8000:8000 ``docker push azzamjeh/ds:tagname``
+-  To do that, you must use the command in the terminal: docker run -d --name (container_name) -p 8000:8000 ``docker pull azzamjeh/ds``
 You may name the container anything you like, the image name should be the same name as that you have built earlier. This will run that Docker image in a newly created container and maps the container port `8000` to the host port `8000`
 
 
