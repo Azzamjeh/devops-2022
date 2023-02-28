@@ -49,8 +49,7 @@ after you paste it in the tokens password you already to go :)
 Azzam jehtarhe
 
 ## Link to dockerhub image
-https://hub.docker.com/repository/docker/azzamjeh/ds/general
-
+https://hub.docker.com/r/azzamjeh/ds
 
 
 
